@@ -10,5 +10,19 @@
       "programming",
       "code-tools"
     ]
+  },
+  {
+    "title": "Open-Source Trojan Detection: Comparing ClamAV, YARA, and Behavioral Analysis Approaches",
+    "slug": "open-source-trojan-detection-comparing-clamav-yara-and-behav",
+    "date": "2026-07-25",
+    "description": "A technical comparison of the three main open-source approaches to trojan and malware detection — signature-based, rule-based, and behavioral analysis — with practical setup examples.",
+    "tags": [
+      "security",
+      "trojan-detection",
+      "open-source",
+      "malware",
+      "clamav",
+      "yara"
+    ]
   }
 ]
