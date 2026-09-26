@@ -24,5 +24,17 @@
       "clamav",
       "yara"
     ]
+  },
+  {
+    "title": "How to Choose and Run a Trojan Scanner on Linux",
+    "slug": "how-to-choose-and-run-a-trojan-scanner-on-linux",
+    "date": "2026-09-26",
+    "description": "",
+    "tags": [
+      "malwaredetection",
+      "serversecurity",
+      "systemhardening",
+      "threatscanning"
+    ]
   }
 ]
